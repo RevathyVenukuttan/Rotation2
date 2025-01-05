@@ -1,4 +1,4 @@
-## Rotation2
+## Rotation2 - Engelhard Lab
 
 Uncertainty estimation in Discrete Time to event models using Evidential Deep Learning 
 
